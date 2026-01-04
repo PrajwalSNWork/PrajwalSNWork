@@ -51,11 +51,10 @@ me.say_hi()
 
 ## 💼 Professional Experience
 
-**Data Analyst** @ **Cognizant Technology Solutions** _(Aug 2022 - Present)_
+**Associate** @ **Cognizant Technology Solutions** _(Jan 2022 - Aug 2025)_
 - 🎯 Spearheaded **DIRECTV API Migration** to CloudHub using SnapLogic, building end-to-end integration workflows with Snowflake and AWS S3
-- 🤖 Built **Mini LLM from scratch** using PyTorch with custom tokenizers, positional embeddings, and attention mechanisms
-- 📈 Delivered enterprise-scale data analytics solutions for Fortune 500 clients
-- ☁️ Implemented cloud-native data pipelines on **AWS**, **Azure**, and **GCP**
+- 📈 Delivered enterprise-scale data analytics solutions
+- ☁️ Implemented cloud-native data pipelines on **AWS** and **GCP**
 
 ## 🛠️ Technical Arsenal
 
