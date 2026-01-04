@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://photos.app.goo.gl/G22K7jWvp49MDvvn9" width="180" style="border-radius: 50%;"/>
+  <img src="https://drive.google.com/file/d/1Hu0ohvCBSLXzsaJh0cOEXCCHk8OL5LWs/view?usp=drive_link" width="180" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Prajwal S Navalli</h1>
