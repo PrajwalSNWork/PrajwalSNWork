@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Prajwal+S+Navalli;Data+Scientist+%7C+Gen-AI+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1Hu0ohvCBSLXzsaJh0cOEXCCHk8OL5LWs" alt="Prajwal S Navalli" width="200" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
