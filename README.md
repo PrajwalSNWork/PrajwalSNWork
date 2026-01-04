@@ -190,26 +190,7 @@ Predictive analytics for employee attrition
 
 </details>
 
-## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajwalSNWork&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalSNWork&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalSNWork&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalSNWork&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrajwalSNWork&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
 
 ## 💡 Currently Learning
 
