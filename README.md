@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Hu0ohvCBSLXzsaJh0cOEXCCHk8OL5LWs" alt="Prajwal S Navalli" width="200" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prajwal-navalli-a80118198"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/PrajwalSNWork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://drive.google.com/file/d/1tY-bgnjK9ew-lqBdZLRJ8fCWq6szPsrg/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
