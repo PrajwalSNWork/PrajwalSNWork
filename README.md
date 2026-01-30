@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Prajwal+S+Navalli;Data+Scientist+%7C+Gen-AI+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Hu0ohvCBSLXzsaJh0cOEXCCHk8OL5LWs" alt="Prajwal S Navalli" width="200" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwal-navalli-a80118198"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/PrajwalSNWork"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -161,6 +169,29 @@ Predictive analytics for employee attrition
 - ✅ Feature engineering
 - ✅ Model optimization
 
+</td>
+</tr>
+
+
+<tr>
+<td width="50%">
+
+### [💰 AI/ML Job Salary Prediction](https://github.com/PrajwalSNWork/AI-Job-Salary-Prediction)
+Predicts salary of AI/ML jobs based on various factors
+
+**Tech Stack:**
+- Python, Pandas
+- Scikit-learn
+- Matplotlib, Seaborn
+
+**Highlights:**
+- ✅ Salary prediction based on experience
+- ✅ Comprehensive EDA & Visualization
+- ✅ Multiple regression models
+
+</td>
+<td width="50%">
+<!-- Future Project Placeholder -->
 </td>
 </tr>
 </table>
