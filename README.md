@@ -101,7 +101,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🤖 Mini LLM from Scratch
+### [🤖 Mini LLM from Scratch](https://github.com/PrajwalSNWork/build-llm-from-scratch)
 Built a **GPT-style Large Language Model** using PyTorch
 
 **Tech Stack:**
@@ -138,7 +138,7 @@ Enterprise-scale **API migration** to CloudHub
 <tr>
 <td width="50%">
 
-### 📊 Chicago Socioeconomic Analysis
+### [📊 Chicago Socioeconomic Analysis](https://github.com/PrajwalSNWork/Mini-Projects/tree/Analysis-of-Chicago-Socioeconomic-Indicators)
 Data pipeline for socioeconomic data analysis
 
 **Tech Stack:**
@@ -155,7 +155,7 @@ Data pipeline for socioeconomic data analysis
 </td>
 <td width="50%">
 
-### 🔍 HR Attrition Prediction
+### [🔍 Retention_Radar_Project](https://github.com/PrajwalSNWork/Retention_Radar_Project)
 Predictive analytics for employee attrition
 
 **Tech Stack:**
